@@ -1,3 +1,5 @@
+<img src='https://github.com/christiancabrero/foto-foral/blob/main/favicon.png' width='300'>
+
 # Foto Foral (photo4all)
 
 Photo share service only written in HTML, PHP, CSS and jQuery. For self-hosting.
@@ -12,7 +14,7 @@ Photo share service only written in HTML, PHP, CSS and jQuery. For self-hosting.
 - You can see the pictures, pinch zoom and download all pictures in ZIP archive.
 
 ## Screenshots
-![alt text](https://github.com/christiancabrero/foto-foral/blob/main/uploads/screenshot-1.png)
-![alt text](https://github.com/christiancabrero/foto-foral/blob/main/uploads/screenshot-2.png)
-![alt text](https://github.com/christiancabrero/foto-foral/blob/main/uploads/screenshot-3.png)
-![alt text](https://github.com/christiancabrero/foto-foral/blob/main/uploads/screenshot-4.png)
+![Pantalla de inicio](https://github.com/christiancabrero/foto-foral/blob/main/uploads/screenshot-1.png)
+![Selección de fotos](https://github.com/christiancabrero/foto-foral/blob/main/uploads/screenshot-2.png)
+![Subida de fotos correcta](https://github.com/christiancabrero/foto-foral/blob/main/uploads/screenshot-3.png)
+![Vista y descarga de fotos](https://github.com/christiancabrero/foto-foral/blob/main/uploads/screenshot-4.png)
