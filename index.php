@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=12.0, minimum-scale=.25, user-scalable=yes">
-        <title>Foto Foral - Compartir</title>
+        <title>photo4all - Compartir</title>
         <meta name="description" content="Comparte fotos con PHP">
 		<meta name="keywords" content="HTML, CSS, jQuery, PHP, Photo, Photo Share">
   		<meta name="author" content="Christian Cabrero">
