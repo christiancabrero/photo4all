@@ -1,6 +1,6 @@
 <img src='https://github.com/christiancabrero/photo4all/blob/main/favicon.png' width='300'>
 
-# photo4all
+# Photo4all
 
 Photo share service only written in HTML, PHP, CSS and jQuery. For self-hosting.
 
