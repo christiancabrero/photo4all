@@ -5,8 +5,10 @@
 Photo share service only written in HTML, PHP, CSS and jQuery. For self-hosting.
 
 ## Installation
-1. You only need download the source code.
-2. A PHP server up to 7.4 with zip extension.
+1. You only need download the last release.
+2. Unzip into your public directory.
+
+(Runs on PHP server up to 7.4 with zip extension)
 
 ## How works?
 - You can upload images in JPG,JPEG,PNG,RAW,HEIC,WEBP and GIF formats
