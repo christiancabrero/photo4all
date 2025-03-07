@@ -220,6 +220,39 @@ main.galeria a{
 .resultado-post .btn{
 	margin:0 auto;
 }
+.image-container {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+}
+
+.delete-form {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+	display:block;
+}
+
+.delete-btn{
+	background-color:transparent;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+}
+.delete-btn i{
+	color:grey;
+}
+
+.delete-btn:hover i {
+    color:rgba(255, 0, 0, 0.7);
+}
 footer{
 	background-color:#008BFF;
 	position:fixed;
